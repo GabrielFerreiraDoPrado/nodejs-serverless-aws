@@ -1,7 +1,7 @@
 
 # Node.js API with Serverless Framework in AWS Environment
 
-![GitHub](https://img.shields.io/github/license/GabrielFerreiraDoPrado/nodejs-serverless-aws ![GitHub top language](https://img.shields.io/github/languages/top/GabrielFerreiraDoPrado/nodejs-serverless-aws)
+![GitHub](https://img.shields.io/github/license/GabrielFerreiraDoPrado/nodejs-serverless-aws) ![GitHub top language](https://img.shields.io/github/languages/top/GabrielFerreiraDoPrado/nodejs-serverless-aws)
 
 # About the Project
 
