@@ -5,7 +5,7 @@
 
 # About the Project
 
-This project was developed during the Cloud Fullstack Bootcamp, made by [Digital Innovation One](https://www.dio.me/). It is an AWS Cloud Infrastructure with API Gateway, DynamoDB, AWS Lambda and AWS CloudFormation using the Serverless framework to the development based on Infrastructure as Code (IaC).
+This project was developed during the Cloud Fullstack Bootcamp, made by [Digital Innovation One](https://www.dio.me/). It is an AWS Cloud Infrastructure with API Gateway, DynamoDB, AWS Lambda and AWS CloudFormation using the Serverless framework to a development based on Infrastructure as Code (IaC).
 
 ## Objectives
  
